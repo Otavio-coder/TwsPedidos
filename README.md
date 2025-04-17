@@ -27,7 +27,7 @@ Principais funcionalidades:
 A versão atual do projeto é **0.1.1**. 
 
 ### Mudanças Principais na Versão 0.1.1 
-A versão 0.4.4 introduz melhorias importantes e ajustes no projeto, incluindo:
+A versão 0.1.1 introduz melhorias importantes e ajustes no projeto, incluindo:
 - **Correção de Bugs nos Modais**: Sincronização aprimorada entre modais de consulta e edição de pedidos.
 - **Melhorias na Responsividade**: Ajustes adicionais para dispositivos móveis.
 - **Otimização Geral de Código**: Melhorias no desempenho e na estrutura do backend e frontend.
