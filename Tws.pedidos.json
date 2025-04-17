@@ -20,11 +20,11 @@
   "_id": {
     "$oid": "673c99d42a1ec785d4fe118a"
   },
-  "descricao": "Solicito a compra de uma rosca",
+  "descricao": "Solicito a compra de uma pia de cozinha",
   "quantidade": 1,
-  "categoria": "Equipamentos e Máquinas",
+  "categoria": "Móveis Planejados",
   "urgencia": "Urgente",
-  "observacao": "para extrusora",
+  "observacao": "A cor do móvel deverá ser azul claro",
   "deliveryDate": {
     "$date": "2024-12-11T00:00:00.000Z"
   },
