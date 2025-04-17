@@ -2,7 +2,7 @@
 ![GitHub version](https://img.shields.io/badge/version-0.4.4-blue)
 
 ## Descrição
-**AraldiTech - Pedidos** é um WebApp desenvolvido para gerenciar pedidos de produtos para setores específicos, com interface moderna, intuitiva e responsiva, proporcionando uma experiência de uso otimizada.
+**TwsPedidos** é um WebApp desenvolvido para gerenciar a montagem de móveis.
 
 O projeto é construído com **FastAPI**, **MongoDB**, **Vue.js**, e conta com autenticação baseada em **JWT** para garantir a segurança de acesso.
 
@@ -24,9 +24,9 @@ Principais funcionalidades:
 - **OAuth2 com JWT**: Autenticação segura usando JSON Web Tokens.
 
 ## Versão
-A versão atual do projeto é **0.4.4**. 
+A versão atual do projeto é **0.1.1**. 
 
-### Mudanças Principais na Versão 0.4.4 
+### Mudanças Principais na Versão 0.1.1 
 A versão 0.4.4 introduz melhorias importantes e ajustes no projeto, incluindo:
 - **Correção de Bugs nos Modais**: Sincronização aprimorada entre modais de consulta e edição de pedidos.
 - **Melhorias na Responsividade**: Ajustes adicionais para dispositivos móveis.
