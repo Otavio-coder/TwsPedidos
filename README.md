@@ -1,4 +1,4 @@
-# AraldiTech - Pedidos (Versão 0.4.4) 
+# TwsPedidos (Versão 0.1.1) 
 ![GitHub version](https://img.shields.io/badge/version-0.4.4-blue)
 
 ## Descrição
